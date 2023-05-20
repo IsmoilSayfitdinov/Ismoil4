@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+    body{
+   background-color: #4B9DCB;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+}
+  
+
+.card{
+    width: 600px;
+    height: 270px;
+    background: white;
+    border-radius: 25px;
+    display: flex;
+    text-align: center;
+
+
+}
+.card2{
+    width: 50%;
+    height: 100%;
+
+}
+
+
+.card_img{
+    width: 190px;
+    margin-top: 20px
+}
+
+

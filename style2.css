@@ -1,0 +1,73 @@
+* img{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu-card{
+    display: flex;
+    align-items: center;
+}
+
+.card{
+    background: white;
+    border: 4px solid yellowgreen;
+    width: 300px;
+    height: 400px;
+    margin-top: 60px;
+    margin-left:20px;
+    box-shadow: 0px 0px 5px black;
+    column-gap: 30px;
+    
+    
+}
+
+
+
+.img-plane{
+    width: 100px;
+    padding: 20px;
+}
+
+
+.tittle{
+    font-size: 25px;
+    text-align: center;
+    color: cadetblue;
+}
+
+.Name{
+    line-height: 25px;
+}
+
+
+
+.img-cars{
+    width: 120px;
+    
+}
+
+.tittle-cars{
+    font-size: 25px;
+    text-align: center;
+    color: cadetblue;
+}
+
+.menu-cars{
+    line-height: 39px;
+    
+}
+
+.Assitance{
+    width: 120px;
+    padding: 20px;
+}
+
+.Icon{
+text-align: center;
+font-size: 25px;
+}
+
+.Free{
+    line-height: 30px;
+}
